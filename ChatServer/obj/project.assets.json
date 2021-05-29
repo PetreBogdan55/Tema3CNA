@@ -947,19 +947,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dorin\\.nuget\\packages\\": {}
+    "C:\\Users\\Mishu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServer\\ChatServer.csproj",
+      "projectUniqueName": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServer\\ChatServer.csproj",
       "projectName": "ChatServer",
-      "projectPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServer\\ChatServer.csproj",
-      "packagesPath": "C:\\Users\\dorin\\.nuget\\packages\\",
-      "outputPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServer\\obj\\",
+      "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServer\\ChatServer.csproj",
+      "packagesPath": "C:\\Users\\Mishu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mishu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -973,8 +973,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj": {
-              "projectPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj"
+            "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\ChatServerCommon.csproj": {
+              "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\ChatServerCommon.csproj"
             }
           }
         }
@@ -1026,7 +1026,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
