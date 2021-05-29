@@ -3,9 +3,9 @@
 import "google/protobuf/timestamp.proto";
 import "google/protobuf/empty.proto";
 
-option csharp_namespace = "Chat.Common";
+option csharp_namespace = "ChatCommon";
 
-package Chat.Common;
+package ChatCommon;
 
 service Chat {
   rpc Write(ChatLog) returns (google.protobuf.Empty) {}
