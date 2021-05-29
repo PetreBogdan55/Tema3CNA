@@ -563,19 +563,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mishu\\.nuget\\packages\\": {}
+    "C:\\Users\\dorin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\ChatServerCommon.csproj",
+      "projectUniqueName": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj",
       "projectName": "ChatServerCommon",
-      "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\ChatServerCommon.csproj",
-      "packagesPath": "C:\\Users\\Mishu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\obj\\",
+      "projectPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj",
+      "packagesPath": "C:\\Users\\dorin\\.nuget\\packages\\",
+      "outputPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mishu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -636,7 +636,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
