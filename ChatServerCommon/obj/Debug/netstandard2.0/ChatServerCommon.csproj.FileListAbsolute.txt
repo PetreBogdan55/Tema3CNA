@@ -1,0 +1,9 @@
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServerCommon\bin\Debug\netstandard2.0\ChatServerCommon.deps.json
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServerCommon\bin\Debug\netstandard2.0\ChatServerCommon.dll
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServerCommon\bin\Debug\netstandard2.0\ChatServerCommon.pdb
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServerCommon\obj\Debug\netstandard2.0\ChatServerCommon.csprojAssemblyReference.cache
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServerCommon\obj\Debug\netstandard2.0\ChatServerCommon.AssemblyInfoInputs.cache
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServerCommon\obj\Debug\netstandard2.0\ChatServerCommon.AssemblyInfo.cs
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServerCommon\obj\Debug\netstandard2.0\ChatServerCommon.csproj.CoreCompileInputs.cache
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServerCommon\obj\Debug\netstandard2.0\ChatServerCommon.dll
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServerCommon\obj\Debug\netstandard2.0\ChatServerCommon.pdb
