@@ -66,3 +66,16 @@ E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\Microsoft.Xaml.Behav
 E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\de\MahApps.Metro.resources.dll
 E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\Views\ChatView.g.cs
 E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\Views\ChatView.baml
+E:\Tema3CNA\ChatClientWpf\bin\Debug\ControlzEx.dll
+E:\Tema3CNA\ChatClientWpf\bin\Debug\MahApps.Metro.dll
+E:\Tema3CNA\ChatClientWpf\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Tema3CNA\ChatClientWpf\bin\Debug\ControlzEx.pdb
+E:\Tema3CNA\ChatClientWpf\bin\Debug\ControlzEx.xml
+E:\Tema3CNA\ChatClientWpf\bin\Debug\MahApps.Metro.pdb
+E:\Tema3CNA\ChatClientWpf\bin\Debug\MahApps.Metro.xml
+E:\Tema3CNA\ChatClientWpf\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Tema3CNA\ChatClientWpf\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Tema3CNA\ChatClientWpf\bin\Debug\de\MahApps.Metro.resources.dll
+E:\Tema3CNA\ChatClientWpf\obj\Debug\Views\ChatView.g.cs
+E:\Tema3CNA\ChatClientWpf\obj\Debug\App.baml
+E:\Tema3CNA\ChatClientWpf\obj\Debug\Views\ChatView.baml

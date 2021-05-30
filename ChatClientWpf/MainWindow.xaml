@@ -7,7 +7,7 @@
         xmlns:views="clr-namespace:ChatClientWpf.Views"
         xmlns:viewsModels="clr-namespace:ChatClientWpf.ViewModels"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" d:DesignHeight="500" d:DesignWidth="900">
     <Window.Resources>
         <DataTemplate x:Name="loginViewTemplate" DataType="{x:Type viewsModels:LoginViewModel}">
             <views:LoginView DataContext="{Binding}"/>
