@@ -13,21 +13,21 @@ namespace ChatServer.Models
     public class ChatService
     {
         [Import]
-        private Logger m_logger = null;
+        private Logger logger = null;
 
         [Import]
-        private IChatRepository m_repository = null;
+        private IChatLogRepository repository = null;
         private event Action<ChatLog> Added;
 
         public void Add(ChatLog chatLog)
         {
-            m_logger.Info($"{chatLog}");
-            m_repository.Add(chatLog);
+            logger.Info($"{chatLog}");
+            repository.Add(chatLog);
             Added?.Invoke(chatLog);
         }
         public IObservable<ChatLog> GetChatLogsAsObservable()
         {
-            var oldLogs = m_repository.GetAll().ToObservable();
+            var oldLogs = repository.GetAll().ToObservable();
             var newLogs = Observable.FromEvent<ChatLog>((x) => Added += x, (x) => Added -= x);
 
             return oldLogs.Concat(newLogs);
