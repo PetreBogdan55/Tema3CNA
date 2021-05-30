@@ -1,7 +1,7 @@
 ﻿using ChatCommon;
 using System.Collections.Generic;
 
-namespace chatserver.models
+namespace ChatServer.Interfaces
 {
 
     public interface IChatRepository

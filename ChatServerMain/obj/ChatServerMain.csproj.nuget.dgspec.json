@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerMain\\ChatServerMain.csproj": {}
+    "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerMain\\ChatServerMain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\ChatServerCommon.csproj": {
+    "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\ChatServerCommon.csproj",
+        "projectUniqueName": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj",
         "projectName": "ChatServerCommon",
-        "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\ChatServerCommon.csproj",
-        "packagesPath": "C:\\Users\\Mishu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\obj\\",
+        "projectPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj",
+        "packagesPath": "C:\\Users\\dorin\\.nuget\\packages\\",
+        "outputPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mishu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,21 +75,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerMain\\ChatServerMain.csproj": {
+    "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerMain\\ChatServerMain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerMain\\ChatServerMain.csproj",
+        "projectUniqueName": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerMain\\ChatServerMain.csproj",
         "projectName": "ChatServerMain",
-        "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerMain\\ChatServerMain.csproj",
-        "packagesPath": "C:\\Users\\Mishu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerMain\\obj\\",
+        "projectPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerMain\\ChatServerMain.csproj",
+        "packagesPath": "C:\\Users\\dorin\\.nuget\\packages\\",
+        "outputPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerMain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mishu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,11 +103,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\ChatServerCommon.csproj": {
-                "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\ChatServerCommon.csproj"
+              "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj": {
+                "projectPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj"
               },
-              "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServer\\ChatServer.csproj": {
-                "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServer\\ChatServer.csproj"
+              "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServer\\ChatServer.csproj": {
+                "projectPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServer\\ChatServer.csproj"
               }
             }
           }
@@ -136,21 +136,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServer\\ChatServer.csproj": {
+    "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServer\\ChatServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServer\\ChatServer.csproj",
+        "projectUniqueName": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServer\\ChatServer.csproj",
         "projectName": "ChatServer",
-        "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServer\\ChatServer.csproj",
-        "packagesPath": "C:\\Users\\Mishu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServer\\obj\\",
+        "projectPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServer\\ChatServer.csproj",
+        "packagesPath": "C:\\Users\\dorin\\.nuget\\packages\\",
+        "outputPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mishu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,8 +164,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\ChatServerCommon.csproj": {
-                "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\ChatServerCommon.csproj"
+              "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj": {
+                "projectPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj"
               }
             }
           }
@@ -217,7 +217,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

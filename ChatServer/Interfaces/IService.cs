@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ChatServer
+namespace ChatServer.Interfaces
 {
     public interface IService
     {
