@@ -7,7 +7,7 @@ using System.Linq;
 using System.Reactive.Linq;
 using ChatServer.Logging;
 
-namespace ChatServer.Models
+namespace ChatServer.Services
 {
     [Export]
     public class ChatService

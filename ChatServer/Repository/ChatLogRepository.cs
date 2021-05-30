@@ -1,6 +1,6 @@
 ﻿using ChatServer.Interfaces;
 using ChatCommon;
-using ChatServer.Models;
+using ChatServer.Services;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.Composition;

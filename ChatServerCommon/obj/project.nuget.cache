@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "SLzcEBTxmjasuNTLBHt+EsF/Na70jy/5Qrn7WaUPvio9EIHr7Jg5Vro3TLj/1Opoovu+VSLQoJUGW7Cykh9kIw==",
+  "dgSpecHash": "5jSPY2ZYQcRqV7YgwF+/HO/Mf/sFziD9kqrryNGIvyG2x7UtdXKHQktQk7b6tYZi/0hIgosg3YPbzzaU4q3ZzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerCommon\\ChatServerCommon.csproj",
+  "projectFilePath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Mishu\\.nuget\\packages\\google.protobuf\\3.17.2\\google.protobuf.3.17.2.nupkg.sha512",
-    "C:\\Users\\Mishu\\.nuget\\packages\\google.protobuf.tools\\3.17.2\\google.protobuf.tools.3.17.2.nupkg.sha512",
-    "C:\\Users\\Mishu\\.nuget\\packages\\grpc.core\\2.38.0\\grpc.core.2.38.0.nupkg.sha512",
-    "C:\\Users\\Mishu\\.nuget\\packages\\grpc.core.api\\2.38.0\\grpc.core.api.2.38.0.nupkg.sha512",
-    "C:\\Users\\Mishu\\.nuget\\packages\\grpc.tools\\2.38.0\\grpc.tools.2.38.0.nupkg.sha512",
-    "C:\\Users\\Mishu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Mishu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Mishu\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
-    "C:\\Users\\Mishu\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Mishu\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
-    "C:\\Users\\Mishu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    "C:\\Users\\dorin\\.nuget\\packages\\google.protobuf\\3.17.2\\google.protobuf.3.17.2.nupkg.sha512",
+    "C:\\Users\\dorin\\.nuget\\packages\\google.protobuf.tools\\3.17.2\\google.protobuf.tools.3.17.2.nupkg.sha512",
+    "C:\\Users\\dorin\\.nuget\\packages\\grpc.core\\2.38.0\\grpc.core.2.38.0.nupkg.sha512",
+    "C:\\Users\\dorin\\.nuget\\packages\\grpc.core.api\\2.38.0\\grpc.core.api.2.38.0.nupkg.sha512",
+    "C:\\Users\\dorin\\.nuget\\packages\\grpc.tools\\2.38.0\\grpc.tools.2.38.0.nupkg.sha512",
+    "C:\\Users\\dorin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dorin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\dorin\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\dorin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\dorin\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\dorin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
   ],
   "logs": []
 }
