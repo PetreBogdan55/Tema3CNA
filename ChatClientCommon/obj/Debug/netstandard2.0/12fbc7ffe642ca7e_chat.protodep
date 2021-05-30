@@ -1,0 +1,4 @@
+obj\Debug\netstandard2.0\Protos/Chat.cs \
+obj\Debug\netstandard2.0\Protos/ChatGrpc.cs: C:/Users/alexn/.nuget/packages/grpc.tools/2.38.0/build/native/include/google/protobuf/timestamp.proto\
+ C:/Users/alexn/.nuget/packages/grpc.tools/2.38.0/build/native/include/google/protobuf/empty.proto\
+ Protos/chat.proto
