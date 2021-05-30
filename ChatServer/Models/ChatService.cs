@@ -16,7 +16,7 @@ namespace ChatServer.Models
         private Logger m_logger = null;
 
         [Import]
-        private IChatRepository m_repository = null;
+        private IChatLogRepository m_repository = null;
         private event Action<ChatLog> Added;
 
         public void Add(ChatLog chatLog)
