@@ -62,7 +62,7 @@ namespace ChatClientWpf.ViewModels
             {
                 return;
             }
-            //App.Current.MainWindow.DataContext = new ChatViewModel(UserLogin);
+            App.Current.MainWindow.DataContext = new ChatViewModel(UserLogin);
         }
 
         private bool TextIsValid()

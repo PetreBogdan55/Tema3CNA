@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tema3CNA\\ChatClient\\ChatClient.csproj": {}
+    "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\ChatClient.csproj": {}
   },
   "projects": {
-    "E:\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj": {
+    "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj",
+        "projectUniqueName": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj",
         "projectName": "ChatClientCommon",
-        "projectPath": "E:\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj",
-        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
-        "outputPath": "E:\\Tema3CNA\\ChatClientCommon\\obj\\",
+        "projectPath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj",
+        "packagesPath": "C:\\Users\\alexn\\.nuget\\packages\\",
+        "outputPath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClientCommon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,21 +75,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Tema3CNA\\ChatClient\\ChatClient.csproj": {
+    "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\ChatClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tema3CNA\\ChatClient\\ChatClient.csproj",
+        "projectUniqueName": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\ChatClient.csproj",
         "projectName": "ChatClient",
-        "projectPath": "E:\\Tema3CNA\\ChatClient\\ChatClient.csproj",
-        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
-        "outputPath": "E:\\Tema3CNA\\ChatClient\\obj\\",
+        "projectPath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\ChatClient.csproj",
+        "packagesPath": "C:\\Users\\alexn\\.nuget\\packages\\",
+        "outputPath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,8 +103,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "E:\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj": {
-                "projectPath": "E:\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj"
+              "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj": {
+                "projectPath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj"
               }
             }
           }
@@ -148,7 +148,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

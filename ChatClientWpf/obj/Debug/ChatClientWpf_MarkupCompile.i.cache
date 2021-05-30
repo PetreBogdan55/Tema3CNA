@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Tema3CNA\ChatClientWpf\obj\Debug\
+E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\
 ChatClientWpf
 none
 false
 DEBUG;TRACE
-E:\Tema3CNA\ChatClientWpf\App.xaml
-2-55191833
+E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\App.xaml
+3-1441579791
 
-12-246112593
-16793596009
-MainWindow.xaml;Views\LoginView.xaml;
+14-800995036
+232113941287
+MainWindow.xaml;Views\ChatView.xaml;Views\LoginView.xaml;
 
-False
+True
 

@@ -12,6 +12,9 @@
         <DataTemplate x:Name="loginViewTemplate" DataType="{x:Type viewsModels:LoginViewModel}">
             <views:LoginView DataContext="{Binding}"/>
         </DataTemplate>
+        <DataTemplate x:Name="chatViewTemplate" DataType="{x:Type viewsModels:ChatViewModel}">
+            <views:ChatView DataContext="{Binding}"/>
+        </DataTemplate>
     </Window.Resources>
     <Grid>
         <ContentControl Content="{Binding}"/>
