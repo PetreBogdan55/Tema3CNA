@@ -2,7 +2,7 @@
 using System.IO;
 using System.Reflection;
 
-namespace GrpcWpfSample.Server
+namespace ChatServer.Manager
 {
     public class MefManager
     {
