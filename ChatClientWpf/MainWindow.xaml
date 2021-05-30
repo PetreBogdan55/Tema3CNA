@@ -4,9 +4,16 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ChatClientWpf"
+        xmlns:views="clr-namespace:ChatClientWpf.Views"
+        xmlns:viewsModels="clr-namespace:ChatClientWpf.ViewModels"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <DataTemplate x:Name="loginViewTemplate" DataType="{x:Type viewsModels:LoginViewModel}">
+            <views:LoginView DataContext="{Binding}"/>
+        </DataTemplate>
+    </Window.Resources>
     <Grid>
-        
+        <ContentControl Content="{Binding}"/>
     </Grid>
 </Window>

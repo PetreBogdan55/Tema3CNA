@@ -10,3 +10,15 @@ E:\Visual Studio Workspace\Tema3CNA\ChatClient\bin\Debug\netstandard2.0\ChatClie
 E:\Visual Studio Workspace\Tema3CNA\ChatClient\obj\Debug\netstandard2.0\ChatClient.csproj.CopyComplete
 E:\Visual Studio Workspace\Tema3CNA\ChatClient\obj\Debug\netstandard2.0\ChatClient.dll
 E:\Visual Studio Workspace\Tema3CNA\ChatClient\obj\Debug\netstandard2.0\ChatClient.pdb
+E:\Tema3CNA\ChatClient\bin\Debug\netstandard2.0\ChatClient.deps.json
+E:\Tema3CNA\ChatClient\bin\Debug\netstandard2.0\ChatClient.dll
+E:\Tema3CNA\ChatClient\bin\Debug\netstandard2.0\ChatClient.pdb
+E:\Tema3CNA\ChatClient\bin\Debug\netstandard2.0\ChatClientCommon.dll
+E:\Tema3CNA\ChatClient\bin\Debug\netstandard2.0\ChatClientCommon.pdb
+E:\Tema3CNA\ChatClient\obj\Debug\netstandard2.0\ChatClient.csprojAssemblyReference.cache
+E:\Tema3CNA\ChatClient\obj\Debug\netstandard2.0\ChatClient.AssemblyInfoInputs.cache
+E:\Tema3CNA\ChatClient\obj\Debug\netstandard2.0\ChatClient.AssemblyInfo.cs
+E:\Tema3CNA\ChatClient\obj\Debug\netstandard2.0\ChatClient.csproj.CoreCompileInputs.cache
+E:\Tema3CNA\ChatClient\obj\Debug\netstandard2.0\ChatClient.csproj.CopyComplete
+E:\Tema3CNA\ChatClient\obj\Debug\netstandard2.0\ChatClient.dll
+E:\Tema3CNA\ChatClient\obj\Debug\netstandard2.0\ChatClient.pdb
