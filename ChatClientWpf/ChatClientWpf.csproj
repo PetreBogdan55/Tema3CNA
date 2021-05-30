@@ -54,7 +54,9 @@
     <ApplicationDefinition Include="App.xaml">
       <Generator>MSBuild:Compile</Generator>
     </ApplicationDefinition>
+    <Compile Include="ApplicationData\ApplicationData.cs" />
     <Compile Include="Commands\RelayCommand.cs" />
+    <Compile Include="Models\Message.cs" />
     <Compile Include="ViewModels\BasePropertyChanged.cs" />
     <Compile Include="ViewModels\LoginViewModel.cs" />
     <Compile Include="Views\LoginView.xaml.cs">
