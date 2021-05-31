@@ -1,0 +1,18 @@
+E:\Visual Studio Workspace\Tema3CNA\ChatClientCommon\bin\Debug\netstandard2.0\ChatClientCommon.deps.json
+E:\Visual Studio Workspace\Tema3CNA\ChatClientCommon\bin\Debug\netstandard2.0\ChatClientCommon.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatClientCommon\bin\Debug\netstandard2.0\ChatClientCommon.pdb
+E:\Visual Studio Workspace\Tema3CNA\ChatClientCommon\obj\Debug\netstandard2.0\ChatClientCommon.csprojAssemblyReference.cache
+E:\Visual Studio Workspace\Tema3CNA\ChatClientCommon\obj\Debug\netstandard2.0\ChatClientCommon.AssemblyInfoInputs.cache
+E:\Visual Studio Workspace\Tema3CNA\ChatClientCommon\obj\Debug\netstandard2.0\ChatClientCommon.AssemblyInfo.cs
+E:\Visual Studio Workspace\Tema3CNA\ChatClientCommon\obj\Debug\netstandard2.0\ChatClientCommon.csproj.CoreCompileInputs.cache
+E:\Visual Studio Workspace\Tema3CNA\ChatClientCommon\obj\Debug\netstandard2.0\ChatClientCommon.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatClientCommon\obj\Debug\netstandard2.0\ChatClientCommon.pdb
+E:\Tema3CNA\ChatClientCommon\bin\Debug\netstandard2.0\ChatClientCommon.deps.json
+E:\Tema3CNA\ChatClientCommon\bin\Debug\netstandard2.0\ChatClientCommon.dll
+E:\Tema3CNA\ChatClientCommon\bin\Debug\netstandard2.0\ChatClientCommon.pdb
+E:\Tema3CNA\ChatClientCommon\obj\Debug\netstandard2.0\ChatClientCommon.csprojAssemblyReference.cache
+E:\Tema3CNA\ChatClientCommon\obj\Debug\netstandard2.0\ChatClientCommon.AssemblyInfoInputs.cache
+E:\Tema3CNA\ChatClientCommon\obj\Debug\netstandard2.0\ChatClientCommon.AssemblyInfo.cs
+E:\Tema3CNA\ChatClientCommon\obj\Debug\netstandard2.0\ChatClientCommon.csproj.CoreCompileInputs.cache
+E:\Tema3CNA\ChatClientCommon\obj\Debug\netstandard2.0\ChatClientCommon.dll
+E:\Tema3CNA\ChatClientCommon\obj\Debug\netstandard2.0\ChatClientCommon.pdb
