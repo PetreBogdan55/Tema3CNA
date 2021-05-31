@@ -7,7 +7,7 @@ using System.Reactive.Linq;
 using System.Reactive.Subjects;
 using System.Runtime.CompilerServices;
 
-namespace ChatServer.Logging
+namespace GrpcWpfSample.Server.Infrastructure
 {
     [Export]
     public class Logger

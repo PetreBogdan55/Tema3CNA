@@ -1,18 +1,16 @@
-﻿using Google.Protobuf.WellKnownTypes;
+﻿using ChatApp.Common;
+using Google.Protobuf.WellKnownTypes;
 using Grpc.Core;
 using Grpc.Core.Interceptors;
-using ChatCommon;
-using ChatServer.Logging;
-using ChatServer.Services;
+using GrpcWpfSample.Server.Infrastructure;
+using GrpcWpfSample.Server.Model;
 using System.ComponentModel.Composition;
-using ChatServer;
 using System.IO;
 using System.Linq;
 using System.Reactive.Linq;
 using System.Threading.Tasks;
-using ChatServer.Interfaces;
 
-namespace ChatServer.Grpc
+namespace GrpcWpfSample.Server.Rpc
 {
     [Export(typeof(IService))]
     public class ChatServiceGrpcServer : Chat.ChatBase, IService
@@ -25,17 +23,16 @@ namespace ChatServer.Grpc
         private readonly Empty m_empty = new Empty();
 
         private const int Port = 50052;
-        private readonly Server m_server;
+        private readonly Grpc.Core.Server m_server;
 
         public ChatServiceGrpcServer()
         {
-
-            m_server = new Server
+            m_server = new Grpc.Core.Server
             {
                 Services =
                     {
                         Chat.BindService(this)
-
+                            .Intercept(new IpAddressAuthenticator())
                     },
                 Ports =
                     {

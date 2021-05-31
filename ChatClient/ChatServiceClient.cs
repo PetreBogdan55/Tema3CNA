@@ -1,21 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Chat.Common;
+﻿using ChatApp.Common;
 using Google.Protobuf.WellKnownTypes;
 using Grpc.Core;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace ChatClient
+namespace GrpcWpfSample.Client
 {
     public class ChatServiceClient
     {
-        private readonly Chat.Common.Chat.ChatClient m_client;
+        private readonly Chat.ChatClient m_client;
 
         public ChatServiceClient()
         {
-            m_client = new Chat.Common.Chat.ChatClient(new Channel("localhost", 50052, ChannelCredentials.Insecure));
+            m_client = new Chat.ChatClient(new Channel("localhost", 50052, ChannelCredentials.Insecure));           
         }
 
         public async Task Write(ChatLog chatLog)

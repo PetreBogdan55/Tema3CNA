@@ -9,9 +9,9 @@
     ".NETStandard,Version=v2.0/": {
       "ChatServer/1.0.0": {
         "dependencies": {
-          "ChatServerCommon": "1.0.0",
-          "Google.Protobuf": "3.17.2",
-          "Grpc.Core": "2.38.0",
+          "Chat.Common": "1.0.0",
+          "Google.Protobuf": "3.14.0",
+          "Grpc.Core": "2.35.0",
           "NETStandard.Library": "2.0.3",
           "System.ComponentModel.Composition": "5.0.0",
           "System.Linq.Async": "5.0.0",
@@ -21,39 +21,39 @@
           "ChatServer.dll": {}
         }
       },
-      "Google.Protobuf/3.17.2": {
+      "Google.Protobuf/3.14.0": {
         "dependencies": {
           "System.Memory": "4.5.3",
           "System.Runtime.CompilerServices.Unsafe": "4.5.3"
         },
         "runtime": {
           "lib/netstandard2.0/Google.Protobuf.dll": {
-            "assemblyVersion": "3.17.2.0",
-            "fileVersion": "3.17.2.0"
+            "assemblyVersion": "3.14.0.0",
+            "fileVersion": "3.14.0.0"
           }
         }
       },
-      "Google.Protobuf.Tools/3.17.2": {},
-      "Grpc.Core/2.38.0": {
+      "Google.Protobuf.Tools/3.14.0": {},
+      "Grpc.Core/2.35.0": {
         "dependencies": {
-          "Grpc.Core.Api": "2.38.0",
+          "Grpc.Core.Api": "2.35.0",
           "System.Memory": "4.5.3"
         },
         "runtime": {
           "lib/netstandard2.0/Grpc.Core.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.38.0.0"
+            "fileVersion": "2.35.0.0"
           }
         }
       },
-      "Grpc.Core.Api/2.38.0": {
+      "Grpc.Core.Api/2.35.0": {
         "dependencies": {
           "System.Memory": "4.5.3"
         },
         "runtime": {
           "lib/netstandard2.0/Grpc.Core.Api.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.38.0.0"
+            "fileVersion": "2.35.0.0"
           }
         }
       },
@@ -171,14 +171,14 @@
           }
         }
       },
-      "ChatServerCommon/1.0.0": {
+      "Chat.Common/1.0.0": {
         "dependencies": {
-          "Google.Protobuf": "3.17.2",
-          "Google.Protobuf.Tools": "3.17.2",
-          "Grpc.Core": "2.38.0"
+          "Google.Protobuf": "3.14.0",
+          "Google.Protobuf.Tools": "3.14.0",
+          "Grpc.Core": "2.35.0"
         },
         "runtime": {
-          "ChatServerCommon.dll": {}
+          "Chat.Common.dll": {}
         }
       }
     }
@@ -189,33 +189,33 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Google.Protobuf/3.17.2": {
+    "Google.Protobuf/3.14.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-cBZFASJ3kdJ8gqN1i99gtDTF4JLaU2RtWv+SRYuaLqRnCoeoHh7S/OYnSJCNowi3wXxPf5B0YsgvT06ELk9zvg==",
-      "path": "google.protobuf/3.17.2",
-      "hashPath": "google.protobuf.3.17.2.nupkg.sha512"
+      "sha512": "sha512-9AkodyGNmLI+wJJPbwpWLmh4BMHoXDQ9+8qvDPhQQi/BNsleqKMBn3OlyLwC6CALwan2kc5+Cenb8fJSITX3nQ==",
+      "path": "google.protobuf/3.14.0",
+      "hashPath": "google.protobuf.3.14.0.nupkg.sha512"
     },
-    "Google.Protobuf.Tools/3.17.2": {
+    "Google.Protobuf.Tools/3.14.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-RTYXPqKETKjg3W/qZukA/me5Q9VUvb9nWfDk+tZtl+px/ENEZHVRV4OFztsOmZM2hMKYxVsBy0tBh0htQbeAww==",
-      "path": "google.protobuf.tools/3.17.2",
-      "hashPath": "google.protobuf.tools.3.17.2.nupkg.sha512"
+      "sha512": "sha512-1xHfUZrka4eDIpTv5IsdFuMZjeC4n8LTp8jEfqBX1oVpDGmeURrF69NU1arb1PHbIYOZlFdp9c1p3iInFqDEUA==",
+      "path": "google.protobuf.tools/3.14.0",
+      "hashPath": "google.protobuf.tools.3.14.0.nupkg.sha512"
     },
-    "Grpc.Core/2.38.0": {
+    "Grpc.Core/2.35.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-D6BmwIYqZgl7TS1i2avqDdjSRY25QvhlqcnG6KfBnyNAoypwX3N8joxeHEQ5L9USrq0KycoAoL645WhpfxwVBQ==",
-      "path": "grpc.core/2.38.0",
-      "hashPath": "grpc.core.2.38.0.nupkg.sha512"
+      "sha512": "sha512-nEh7OqeJOuLl9PnJ1tpdVoginCcYd5jjKERr3fjLgcmvc7OKqObMgoSpH0I5o4vy8RP4t2Lu10FGtlnIDhCkTw==",
+      "path": "grpc.core/2.35.0",
+      "hashPath": "grpc.core.2.35.0.nupkg.sha512"
     },
-    "Grpc.Core.Api/2.38.0": {
+    "Grpc.Core.Api/2.35.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-hqQEPxKyCwoq75OXmWDKe/rw/O9YjgdfIYmU/w8r5itMmHJp0HNmfHdxVVW9DSRuA836NM93qYoMdbTYQfWOHA==",
-      "path": "grpc.core.api/2.38.0",
-      "hashPath": "grpc.core.api.2.38.0.nupkg.sha512"
+      "sha512": "sha512-3ZpDzd5iMRBUv22hcvBqhL1yFFNfa9AccG8koco0ezbO/NMt3E0GsTf1BeIZ2G6ceFZR3fEMawpiJAlXhDEpQA==",
+      "path": "grpc.core.api/2.35.0",
+      "hashPath": "grpc.core.api.2.35.0.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",
@@ -315,7 +315,7 @@
       "path": "system.threading.tasks.extensions/4.5.4",
       "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
     },
-    "ChatServerCommon/1.0.0": {
+    "Chat.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

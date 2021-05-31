@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -6,8 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ChatServerCommon\ChatServerCommon.csproj" />
-    <ProjectReference Include="..\ChatServer\ChatServer.csproj" />
+    <PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="5.0.0" />
+    <PackageReference Include="System.Reactive" Version="5.0.0" />
   </ItemGroup>
 
+
+  <ItemGroup>
+    <ProjectReference Include="..\Chat.Common\Chat.Common.csproj" />
+    <ProjectReference Include="..\ChatServer\ChatServer.csproj" />
+  </ItemGroup>
 </Project>

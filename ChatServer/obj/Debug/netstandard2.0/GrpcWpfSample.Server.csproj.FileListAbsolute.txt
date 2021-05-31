@@ -1,0 +1,12 @@
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Server\bin\Debug\netstandard2.0\GrpcWpfSample.Server.deps.json
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Server\bin\Debug\netstandard2.0\GrpcWpfSample.Server.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Server\bin\Debug\netstandard2.0\GrpcWpfSample.Server.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Server\obj\Debug\netstandard2.0\GrpcWpfSample.Server.csprojAssemblyReference.cache
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Server\obj\Debug\netstandard2.0\GrpcWpfSample.Server.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Server\obj\Debug\netstandard2.0\GrpcWpfSample.Server.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Server\obj\Debug\netstandard2.0\GrpcWpfSample.Server.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Server\obj\Debug\netstandard2.0\GrpcWpfSample.Server.csproj.CopyComplete
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Server\obj\Debug\netstandard2.0\GrpcWpfSample.Server.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Server\obj\Debug\netstandard2.0\GrpcWpfSample.Server.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Server\bin\Debug\netstandard2.0\Chat.Common.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Server\bin\Debug\netstandard2.0\Chat.Common.pdb

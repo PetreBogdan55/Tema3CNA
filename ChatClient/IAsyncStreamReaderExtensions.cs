@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ChatClient
+namespace GrpcWpfSample.Client
 {
     public static class IAsyncStreamReaderExtensions
     {

@@ -1,9 +1,7 @@
-﻿using System;
-using ChatServer.Interfaces;
-using ChatServer.Logging;
-using ChatServer.Manager;
+﻿using GrpcWpfSample.Server.Infrastructure;
+using System;
 
-namespace ChatServerMain
+namespace GrpcWpfSample.Server.Core
 {
     class Program
     {

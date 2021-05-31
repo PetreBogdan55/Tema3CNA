@@ -1,9 +1,8 @@
-﻿using ChatCommon;
+﻿using ChatApp.Common;
 using System.Collections.Generic;
 
-namespace ChatServer.Interfaces
+namespace GrpcWpfSample.Server.Model
 {
-
     public interface IChatLogRepository
     {
         void Add(ChatLog chatLog);

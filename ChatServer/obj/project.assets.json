@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
-      "Google.Protobuf/3.17.2": {
+      "Google.Protobuf/3.14.0": {
         "type": "package",
         "dependencies": {
           "System.Memory": "4.5.3",
@@ -15,7 +15,7 @@
           "lib/netstandard2.0/Google.Protobuf.dll": {}
         }
       },
-      "Google.Protobuf.Tools/3.17.2": {
+      "Google.Protobuf.Tools/3.14.0": {
         "type": "package",
         "build": {
           "build/_._": {}
@@ -24,10 +24,10 @@
           "buildCrossTargeting/_._": {}
         }
       },
-      "Grpc.Core/2.38.0": {
+      "Grpc.Core/2.35.0": {
         "type": "package",
         "dependencies": {
-          "Grpc.Core.Api": "2.38.0",
+          "Grpc.Core.Api": "2.35.0",
           "System.Memory": "4.5.3"
         },
         "compile": {
@@ -37,10 +37,6 @@
           "lib/netstandard2.0/Grpc.Core.dll": {}
         },
         "runtimeTargets": {
-          "runtimes/linux-arm64/native/libgrpc_csharp_ext.arm64.so": {
-            "assetType": "native",
-            "rid": "linux-arm64"
-          },
           "runtimes/linux-x64/native/libgrpc_csharp_ext.x64.so": {
             "assetType": "native",
             "rid": "linux-x64"
@@ -59,7 +55,7 @@
           }
         }
       },
-      "Grpc.Core.Api/2.38.0": {
+      "Grpc.Core.Api/2.35.0": {
         "type": "package",
         "dependencies": {
           "System.Memory": "4.5.3"
@@ -225,39 +221,36 @@
           "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
         }
       },
-      "ChatServerCommon/1.0.0": {
+      "Chat.Common/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Google.Protobuf": "3.17.2",
-          "Google.Protobuf.Tools": "3.17.2",
-          "Grpc.Core": "2.38.0"
+          "Google.Protobuf": "3.14.0",
+          "Google.Protobuf.Tools": "3.14.0",
+          "Grpc.Core": "2.35.0"
         },
         "compile": {
-          "bin/placeholder/ChatServerCommon.dll": {}
+          "bin/placeholder/Chat.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ChatServerCommon.dll": {}
+          "bin/placeholder/Chat.Common.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Google.Protobuf/3.17.2": {
-      "sha512": "cBZFASJ3kdJ8gqN1i99gtDTF4JLaU2RtWv+SRYuaLqRnCoeoHh7S/OYnSJCNowi3wXxPf5B0YsgvT06ELk9zvg==",
+    "Google.Protobuf/3.14.0": {
+      "sha512": "9AkodyGNmLI+wJJPbwpWLmh4BMHoXDQ9+8qvDPhQQi/BNsleqKMBn3OlyLwC6CALwan2kc5+Cenb8fJSITX3nQ==",
       "type": "package",
-      "path": "google.protobuf/3.17.2",
+      "path": "google.protobuf/3.14.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "google.protobuf.3.17.2.nupkg.sha512",
+        "google.protobuf.3.14.0.nupkg.sha512",
         "google.protobuf.nuspec",
         "lib/net45/Google.Protobuf.dll",
         "lib/net45/Google.Protobuf.pdb",
         "lib/net45/Google.Protobuf.xml",
-        "lib/net5.0/Google.Protobuf.dll",
-        "lib/net5.0/Google.Protobuf.pdb",
-        "lib/net5.0/Google.Protobuf.xml",
         "lib/netstandard1.1/Google.Protobuf.dll",
         "lib/netstandard1.1/Google.Protobuf.pdb",
         "lib/netstandard1.1/Google.Protobuf.xml",
@@ -266,17 +259,17 @@
         "lib/netstandard2.0/Google.Protobuf.xml"
       ]
     },
-    "Google.Protobuf.Tools/3.17.2": {
-      "sha512": "RTYXPqKETKjg3W/qZukA/me5Q9VUvb9nWfDk+tZtl+px/ENEZHVRV4OFztsOmZM2hMKYxVsBy0tBh0htQbeAww==",
+    "Google.Protobuf.Tools/3.14.0": {
+      "sha512": "1xHfUZrka4eDIpTv5IsdFuMZjeC4n8LTp8jEfqBX1oVpDGmeURrF69NU1arb1PHbIYOZlFdp9c1p3iInFqDEUA==",
       "type": "package",
-      "path": "google.protobuf.tools/3.17.2",
+      "path": "google.protobuf.tools/3.14.0",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "build/Google.Protobuf.Tools.targets",
         "buildCrossTargeting/Google.Protobuf.Tools.targets",
-        "google.protobuf.tools.3.17.2.nupkg.sha512",
+        "google.protobuf.tools.3.14.0.nupkg.sha512",
         "google.protobuf.tools.nuspec",
         "tools/google/protobuf/any.proto",
         "tools/google/protobuf/api.proto",
@@ -296,16 +289,15 @@
         "tools/windows_x86/protoc.exe"
       ]
     },
-    "Grpc.Core/2.38.0": {
-      "sha512": "D6BmwIYqZgl7TS1i2avqDdjSRY25QvhlqcnG6KfBnyNAoypwX3N8joxeHEQ5L9USrq0KycoAoL645WhpfxwVBQ==",
+    "Grpc.Core/2.35.0": {
+      "sha512": "nEh7OqeJOuLl9PnJ1tpdVoginCcYd5jjKERr3fjLgcmvc7OKqObMgoSpH0I5o4vy8RP4t2Lu10FGtlnIDhCkTw==",
       "type": "package",
-      "path": "grpc.core/2.38.0",
+      "path": "grpc.core/2.35.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "build/net45/Grpc.Core.targets",
-        "buildTransitive/net45/Grpc.Core.targets",
-        "grpc.core.2.38.0.nupkg.sha512",
+        "grpc.core.2.35.0.nupkg.sha512",
         "grpc.core.nuspec",
         "lib/net45/Grpc.Core.dll",
         "lib/net45/Grpc.Core.pdb",
@@ -316,21 +308,20 @@
         "lib/netstandard2.0/Grpc.Core.dll",
         "lib/netstandard2.0/Grpc.Core.pdb",
         "lib/netstandard2.0/Grpc.Core.xml",
-        "runtimes/linux-arm64/native/libgrpc_csharp_ext.arm64.so",
         "runtimes/linux-x64/native/libgrpc_csharp_ext.x64.so",
         "runtimes/osx-x64/native/libgrpc_csharp_ext.x64.dylib",
         "runtimes/win-x64/native/grpc_csharp_ext.x64.dll",
         "runtimes/win-x86/native/grpc_csharp_ext.x86.dll"
       ]
     },
-    "Grpc.Core.Api/2.38.0": {
-      "sha512": "hqQEPxKyCwoq75OXmWDKe/rw/O9YjgdfIYmU/w8r5itMmHJp0HNmfHdxVVW9DSRuA836NM93qYoMdbTYQfWOHA==",
+    "Grpc.Core.Api/2.35.0": {
+      "sha512": "3ZpDzd5iMRBUv22hcvBqhL1yFFNfa9AccG8koco0ezbO/NMt3E0GsTf1BeIZ2G6ceFZR3fEMawpiJAlXhDEpQA==",
       "type": "package",
-      "path": "grpc.core.api/2.38.0",
+      "path": "grpc.core.api/2.35.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "grpc.core.api.2.38.0.nupkg.sha512",
+        "grpc.core.api.2.35.0.nupkg.sha512",
         "grpc.core.api.nuspec",
         "lib/net45/Grpc.Core.Api.dll",
         "lib/net45/Grpc.Core.Api.pdb",
@@ -929,17 +920,17 @@
         "version.txt"
       ]
     },
-    "ChatServerCommon/1.0.0": {
+    "Chat.Common/1.0.0": {
       "type": "project",
-      "path": "../ChatServerCommon/ChatServerCommon.csproj",
-      "msbuildProject": "../ChatServerCommon/ChatServerCommon.csproj"
+      "path": "../Chat.Common/Chat.Common.csproj",
+      "msbuildProject": "../Chat.Common/Chat.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "ChatServerCommon >= 1.0.0",
-      "Google.Protobuf >= 3.17.2",
-      "Grpc.Core >= 2.38.0",
+      "Chat.Common >= 1.0.0",
+      "Google.Protobuf >= 3.14.0",
+      "Grpc.Core >= 2.35.0",
       "NETStandard.Library >= 2.0.3",
       "System.ComponentModel.Composition >= 5.0.0",
       "System.Linq.Async >= 5.0.0",
@@ -947,19 +938,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dorin\\.nuget\\packages\\": {}
+    "C:\\Users\\alexn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServer\\ChatServer.csproj",
+      "projectUniqueName": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatServer\\ChatServer.csproj",
       "projectName": "ChatServer",
-      "projectPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServer\\ChatServer.csproj",
-      "packagesPath": "C:\\Users\\dorin\\.nuget\\packages\\",
-      "outputPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServer\\obj\\",
+      "projectPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatServer\\ChatServer.csproj",
+      "packagesPath": "C:\\Users\\alexn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -973,8 +964,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj": {
-              "projectPath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerCommon\\ChatServerCommon.csproj"
+            "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj": {
+              "projectPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj"
             }
           }
         }
@@ -991,11 +982,11 @@
         "dependencies": {
           "Google.Protobuf": {
             "target": "Package",
-            "version": "[3.17.2, )"
+            "version": "[3.14.0, )"
           },
           "Grpc.Core": {
             "target": "Package",
-            "version": "[2.38.0, )"
+            "version": "[2.35.0, )"
           },
           "NETStandard.Library": {
             "suppressParent": "All",
@@ -1026,7 +1017,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,81 +1,283 @@
-E:\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.csprojAssemblyReference.cache
-E:\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.exe.config
-E:\Tema3CNA\ChatClientWpf\obj\Debug\Views\LoginView.baml
-E:\Tema3CNA\ChatClientWpf\obj\Debug\MainWindow.g.cs
-E:\Tema3CNA\ChatClientWpf\obj\Debug\Views\LoginView.g.cs
-E:\Tema3CNA\ChatClientWpf\obj\Debug\App.g.cs
-E:\Tema3CNA\ChatClientWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
-E:\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf_MarkupCompile.cache
-E:\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf_MarkupCompile.lref
-E:\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.exe
-E:\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.pdb
-E:\Tema3CNA\ChatClientWpf\bin\Debug\ChatClientWpf.exe.config
-E:\Tema3CNA\ChatClientWpf\bin\Debug\ChatClientWpf.exe
-E:\Tema3CNA\ChatClientWpf\bin\Debug\ChatClientWpf.pdb
-E:\Tema3CNA\ChatClientWpf\bin\Debug\ChatClient.dll
-E:\Tema3CNA\ChatClientWpf\bin\Debug\ChatClientCommon.dll
-E:\Tema3CNA\ChatClientWpf\bin\Debug\System.Memory.dll
-E:\Tema3CNA\ChatClientWpf\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-E:\Tema3CNA\ChatClientWpf\bin\Debug\System.Numerics.Vectors.dll
-E:\Tema3CNA\ChatClientWpf\bin\Debug\System.Buffers.dll
-E:\Tema3CNA\ChatClientWpf\bin\Debug\ChatClientCommon.pdb
-E:\Tema3CNA\ChatClientWpf\bin\Debug\ChatClient.pdb
-E:\Tema3CNA\ChatClientWpf\obj\Debug\MainWindow.baml
-E:\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.g.resources
-E:\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.Properties.Resources.resources
-E:\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.csproj.GenerateResource.cache
-E:\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.csproj.CoreCompileInputs.cache
-E:\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.csproj.CopyComplete
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\ChatClientWpf.exe.config
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\ChatClientWpf.exe
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\ChatClientWpf.pdb
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\ChatClient.dll
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\ChatClientCommon.dll
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\System.Memory.dll
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\System.Numerics.Vectors.dll
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\System.Buffers.dll
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\ChatClientCommon.pdb
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\ChatClient.pdb
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.csprojAssemblyReference.cache
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.exe.config
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\Views\LoginView.baml
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\MainWindow.g.cs
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\Views\LoginView.g.cs
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\App.g.cs
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf_MarkupCompile.cache
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf_MarkupCompile.lref
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\MainWindow.baml
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.g.resources
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.Properties.Resources.resources
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.csproj.GenerateResource.cache
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.csproj.CoreCompileInputs.cache
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.csproj.CopyComplete
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.exe
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\ChatClientWpf.pdb
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\ControlzEx.dll
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\MahApps.Metro.dll
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\Microsoft.Xaml.Behaviors.dll
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\ControlzEx.pdb
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\ControlzEx.xml
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\MahApps.Metro.pdb
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\MahApps.Metro.xml
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\Microsoft.Xaml.Behaviors.pdb
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\Microsoft.Xaml.Behaviors.xml
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\bin\Debug\de\MahApps.Metro.resources.dll
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\Views\ChatView.g.cs
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\Views\ChatView.baml
-E:\Tema3CNA\ChatClientWpf\bin\Debug\ControlzEx.dll
-E:\Tema3CNA\ChatClientWpf\bin\Debug\MahApps.Metro.dll
-E:\Tema3CNA\ChatClientWpf\bin\Debug\Microsoft.Xaml.Behaviors.dll
-E:\Tema3CNA\ChatClientWpf\bin\Debug\ControlzEx.pdb
-E:\Tema3CNA\ChatClientWpf\bin\Debug\ControlzEx.xml
-E:\Tema3CNA\ChatClientWpf\bin\Debug\MahApps.Metro.pdb
-E:\Tema3CNA\ChatClientWpf\bin\Debug\MahApps.Metro.xml
-E:\Tema3CNA\ChatClientWpf\bin\Debug\Microsoft.Xaml.Behaviors.pdb
-E:\Tema3CNA\ChatClientWpf\bin\Debug\Microsoft.Xaml.Behaviors.xml
-E:\Tema3CNA\ChatClientWpf\bin\Debug\de\MahApps.Metro.resources.dll
-E:\Tema3CNA\ChatClientWpf\obj\Debug\Views\ChatView.g.cs
-E:\Tema3CNA\ChatClientWpf\obj\Debug\App.baml
-E:\Tema3CNA\ChatClientWpf\obj\Debug\Views\ChatView.baml
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\GrpcWpfSample.Client.Wpf.exe.config
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\GrpcWpfSample.Client.Wpf.exe
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\GrpcWpfSample.Client.Wpf.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\Google.Protobuf.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\Google.Protobuf.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\Grpc.Core.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\Grpc.Core.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\Grpc.Core.Api.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\Prism.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\Prism.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Buffers.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Interactive.Async.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Linq.Async.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Memory.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.ValueTuple.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\netstandard.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.AppContext.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Collections.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Collections.Specialized.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.ComponentModel.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Console.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Data.Common.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Globalization.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.IO.Compression.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.IO.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.IO.FileSystem.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.IO.Pipes.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Linq.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Linq.Expressions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Linq.Parallel.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Linq.Queryable.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Net.Http.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Net.NameResolution.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Net.Ping.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Net.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Net.Requests.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Net.Security.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Net.Sockets.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Net.WebSockets.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.ObjectModel.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Reflection.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Resources.Reader.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Resources.Writer.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Runtime.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Runtime.Handles.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Security.Claims.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Security.Principal.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Security.SecureString.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Text.Encoding.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Threading.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Threading.Tasks.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Threading.Thread.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Threading.Timer.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Xml.XDocument.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Xml.XPath.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\Chat.Common.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\ChatClient.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\ChatClient.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\bin\Debug\Chat.Common.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\ChatClientWpf.csprojAssemblyReference.cache
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\GrpcWpfSample.Client.Wpf.exe.config
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\View\ChatClientWindow.g.cs
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\App.g.cs
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\GrpcWpfSample.Client.Wpf_Content.g.cs
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\GrpcWpfSample.Client.Wpf_MarkupCompile.cache
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\GrpcWpfSample.Client.Wpf_MarkupCompile.lref
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\View\ChatClientWindow.baml
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\GrpcWpfSample.Client.Wpf.g.resources
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\GrpcWpfSample.Client.Wpf.Properties.Resources.resources
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\ChatClientWpf.csproj.GenerateResource.cache
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\ChatClientWpf.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\ChatClientWpf.csproj.CopyComplete
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\GrpcWpfSample.Client.Wpf.exe
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\GrpcWpfSample.Client.Wpf\obj\Debug\GrpcWpfSample.Client.Wpf.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\ChatClientWpf.csprojAssemblyReference.cache
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\GrpcWpfSample.Client.Wpf.exe.config
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\View\ChatClientWindow.g.cs
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\View\ChatView.g.cs
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\View\LoginView.g.cs
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\App.g.cs
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\GrpcWpfSample.Client.Wpf_Content.g.cs
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\GrpcWpfSample.Client.Wpf_MarkupCompile.cache
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\GrpcWpfSample.Client.Wpf_MarkupCompile.lref
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\GrpcWpfSample.Client.Wpf.exe.config
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\GrpcWpfSample.Client.Wpf.exe
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\GrpcWpfSample.Client.Wpf.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\Google.Protobuf.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\Google.Protobuf.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\Grpc.Core.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\Grpc.Core.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\Grpc.Core.Api.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\Prism.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\Prism.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Buffers.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Interactive.Async.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Linq.Async.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Memory.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.ValueTuple.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\netstandard.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.AppContext.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Collections.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Collections.Specialized.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.ComponentModel.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Console.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Data.Common.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Globalization.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.IO.Compression.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.IO.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.IO.FileSystem.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.IO.Pipes.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Linq.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Linq.Expressions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Linq.Parallel.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Linq.Queryable.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Net.Http.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Net.NameResolution.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Net.Ping.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Net.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Net.Requests.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Net.Security.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Net.Sockets.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Net.WebSockets.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.ObjectModel.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Reflection.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Resources.Reader.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Resources.Writer.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Runtime.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Runtime.Handles.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Security.Claims.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Security.Principal.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Security.SecureString.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Text.Encoding.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Threading.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Threading.Tasks.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Threading.Thread.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Threading.Timer.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Xml.XDocument.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Xml.XPath.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\Chat.Common.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\ChatClient.dll
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\Chat.Common.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\bin\Debug\ChatClient.pdb
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\View\ChatClientWindow.baml
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\View\ChatView.baml
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\View\LoginView.baml
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\GrpcWpfSample.Client.Wpf.g.resources
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\GrpcWpfSample.Client.Wpf.Properties.Resources.resources
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\ChatClientWpf.csproj.GenerateResource.cache
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\ChatClientWpf.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\ChatClientWpf.csproj.CopyComplete
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\GrpcWpfSample.Client.Wpf.exe
+C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatClientWpf\obj\Debug\GrpcWpfSample.Client.Wpf.pdb

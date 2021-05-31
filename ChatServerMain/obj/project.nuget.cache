@@ -1,17 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "WW7p1DFkaDEyoIXRj3T/E2tltEKThn98t/ngFv1s4Yyaofgjb2pMyCAM6yyKiXe7jwq19K/WBFkIgQ1MUCOFdQ==",
+  "dgSpecHash": "IXu1hcKwk+NYhaxTRcokb6yFLqV4nLjjLsQGIttAs4+wwfPnLaRLO2i+mzmnLb3p8FqSiIxuYf5O0xnnZPpP8A==",
   "success": true,
-  "projectFilePath": "E:\\repos\\CNA\\CnaTema3\\Server\\ChatServerMain\\ChatServerMain.csproj",
+  "projectFilePath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatServerMain\\ChatServerMain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dorin\\.nuget\\packages\\google.protobuf\\3.17.2\\google.protobuf.3.17.2.nupkg.sha512",
-    "C:\\Users\\dorin\\.nuget\\packages\\google.protobuf.tools\\3.17.2\\google.protobuf.tools.3.17.2.nupkg.sha512",
-    "C:\\Users\\dorin\\.nuget\\packages\\grpc.core\\2.38.0\\grpc.core.2.38.0.nupkg.sha512",
-    "C:\\Users\\dorin\\.nuget\\packages\\grpc.core.api\\2.38.0\\grpc.core.api.2.38.0.nupkg.sha512",
-    "C:\\Users\\dorin\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\system.componentmodel.composition.5.0.0.nupkg.sha512",
-    "C:\\Users\\dorin\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
-    "C:\\Users\\dorin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\dorin\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+    "C:\\Users\\alexn\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
+    "C:\\Users\\alexn\\.nuget\\packages\\google.protobuf.tools\\3.14.0\\google.protobuf.tools.3.14.0.nupkg.sha512",
+    "C:\\Users\\alexn\\.nuget\\packages\\grpc.core\\2.35.0\\grpc.core.2.35.0.nupkg.sha512",
+    "C:\\Users\\alexn\\.nuget\\packages\\grpc.core.api\\2.35.0\\grpc.core.api.2.35.0.nupkg.sha512",
+    "C:\\Users\\alexn\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\alexn\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\system.componentmodel.composition.5.0.0.nupkg.sha512",
+    "C:\\Users\\alexn\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\alexn\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\alexn\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\alexn\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
   ],
   "logs": []
 }
