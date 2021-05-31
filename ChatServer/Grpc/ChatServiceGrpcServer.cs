@@ -69,11 +69,32 @@ namespace GrpcWpfSample.Server.Rpc
             }
         }
 
+        public override async Task GetUsers(Empty request, IServerStreamWriter<User> responseStream, ServerCallContext context)
+        {
+            var peer = context.Peer; // keep peer information because it is not available after disconnection
+            m_logger.Info($"{peer} gets the users.");
+
+            context.CancellationToken.Register(() => m_logger.Info($"{peer} cancels subscription to the user list."));
+
+            try
+            {
+                await m_chatService.GetChatLogsUsersAsObservable()
+                    .ToAsyncEnumerable()
+                    .ForEachAwaitAsync(async (x) => await responseStream.WriteAsync(x), context.CancellationToken)
+                    .ConfigureAwait(false);
+            }
+            catch (TaskCanceledException)
+            {
+                m_logger.Info($"{peer} unsubscribed from getting the user list.");
+            }
+        }
+
         public override Task<Empty> Write(ChatLog request, ServerCallContext context)
         {
             m_logger.Info($"{context.Peer} {request}");
 
             m_chatService.Add(request);
+            m_chatService.AddUser(new User { Name = request.Name });
 
             return Task.FromResult(m_empty);
         }

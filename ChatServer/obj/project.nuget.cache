@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cd7ZuBmzya4fkJe8MpnuPgnw/dm2aU3NMepQKvJ2Dbt6DiDgOm2JVaQIg8m8CiZQPnDm6Dhn2MUfJtEzo1SZpQ==",
+  "dgSpecHash": "QSNLAt6eVTbbKDRMqRixImvLxTzQeBskQUH9zkwkTNmYqjqrnVkGfZs8US+6e4w8L1K/EVPRa2IhJij3WB9b8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatServer\\ChatServer.csproj",
+  "projectFilePath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatServer\\ChatServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexn\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
     "C:\\Users\\alexn\\.nuget\\packages\\google.protobuf.tools\\3.14.0\\google.protobuf.tools.3.14.0.nupkg.sha512",

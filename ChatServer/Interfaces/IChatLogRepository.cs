@@ -6,6 +6,8 @@ namespace GrpcWpfSample.Server.Model
     public interface IChatLogRepository
     {
         void Add(ChatLog chatLog);
+        void AddUser(User chatLog);
         IEnumerable<ChatLog> GetAll();
+        IEnumerable<User> GetAllUsers();
     }
 }

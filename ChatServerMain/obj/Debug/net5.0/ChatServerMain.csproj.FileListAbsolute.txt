@@ -62,3 +62,35 @@ C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatSe
 C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatServerMain\bin\Debug\net5.0\ChatServer.pdb
 C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatServerMain\obj\Debug\net5.0\ChatServerMain.csproj.CopyComplete
 C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatServerMain\obj\Debug\net5.0\ChatServerMain.genruntimeconfig.cache
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\ChatServerMain.exe
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\ChatServerMain.deps.json
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\ChatServerMain.runtimeconfig.json
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\ChatServerMain.runtimeconfig.dev.json
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\ChatServerMain.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\ref\ChatServerMain.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\ChatServerMain.pdb
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\Google.Protobuf.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\Grpc.Core.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\Grpc.Core.Api.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\System.ComponentModel.Composition.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\System.Linq.Async.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\System.Reactive.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\Chat.Common.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\ChatServer.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\Chat.Common.pdb
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\bin\Debug\net5.0\ChatServer.pdb
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\obj\Debug\net5.0\ChatServerMain.csprojAssemblyReference.cache
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\obj\Debug\net5.0\ChatServerMain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\obj\Debug\net5.0\ChatServerMain.AssemblyInfoInputs.cache
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\obj\Debug\net5.0\ChatServerMain.AssemblyInfo.cs
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\obj\Debug\net5.0\ChatServerMain.csproj.CoreCompileInputs.cache
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\obj\Debug\net5.0\ChatServerMain.csproj.CopyComplete
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\obj\Debug\net5.0\ChatServerMain.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\obj\Debug\net5.0\ref\ChatServerMain.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\obj\Debug\net5.0\ChatServerMain.pdb
+E:\Visual Studio Workspace\Tema3CNA\ChatServerMain\obj\Debug\net5.0\ChatServerMain.genruntimeconfig.cache

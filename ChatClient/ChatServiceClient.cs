@@ -14,7 +14,7 @@ namespace GrpcWpfSample.Client
 
         public ChatServiceClient()
         {
-            m_client = new Chat.ChatClient(new Channel("localhost", 50052, ChannelCredentials.Insecure));           
+            m_client = new Chat.ChatClient(new Channel("localhost", 50052, ChannelCredentials.Insecure));
         }
 
         public async Task Write(ChatLog chatLog)
@@ -25,6 +25,15 @@ namespace GrpcWpfSample.Client
         public IAsyncEnumerable<ChatLog> ChatLogs()
         {
             var call = m_client.Subscribe(new Empty());
+
+            return call.ResponseStream
+                .ToAsyncEnumerable()
+                .Finally(() => call.Dispose());
+        }
+
+        public IAsyncEnumerable<User> ChatUsers()
+        {
+            var call = m_client.GetUsers(new Empty());
 
             return call.ResponseStream
                 .ToAsyncEnumerable()

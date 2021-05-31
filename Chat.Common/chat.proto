@@ -10,10 +10,15 @@ package Chat.Common;
 service Chat {
   rpc Write(ChatLog) returns (google.protobuf.Empty) {}
   rpc Subscribe(google.protobuf.Empty) returns (stream ChatLog) {}
+  rpc GetUsers(google.protobuf.Empty) returns(stream User) {}
 }
 
 message ChatLog {
 	string name = 1;
 	string content = 2;
 	google.protobuf.Timestamp at = 3;
+}
+
+message User{
+	string name = 1;
 }

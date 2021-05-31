@@ -23,13 +23,16 @@ namespace GrpcWpfSample.Client.Wpf.ViewModel
             LocalUsername = username;
             MainChatVisibility = "Visible";
             BindingOperations.EnableCollectionSynchronization(ChatHistory, m_chatHistoryLockObject);
+            BindingOperations.EnableCollectionSynchronization(UserList, m_chatHistoryUsersLockObject);
             StartReadingChatServer();
+            StartReadingChatUsers();
         }
 
         #region BindingElements
 
         private readonly ChatServiceClient m_chatService = new ChatServiceClient();
-
+        public static ObservableCollection<string> UserList { get; set; } = new ObservableCollection<string>();
+        private readonly object m_chatHistoryUsersLockObject = new object();
         public static ObservableCollection<Message> ChatHistory { get; } = new ObservableCollection<Message>();
         private readonly object m_chatHistoryLockObject = new object();
 
@@ -163,6 +166,16 @@ namespace GrpcWpfSample.Client.Wpf.ViewModel
             App.Current.Exit += (_, __) => cts.Cancel();
         }
 
+        private void StartReadingChatUsers()
+        {
+            var cts = new CancellationTokenSource();
+            _ = m_chatService.ChatUsers()
+                .ForEachAsync((x) => {
+                    AddUser(x.Name);
+                }, cts.Token);
+            App.Current.Exit += (_, __) => cts.Cancel();
+        }
+
         private async void WriteCommandExecute(string content)
         {
             await m_chatService.Write(new ChatLog
@@ -171,6 +184,12 @@ namespace GrpcWpfSample.Client.Wpf.ViewModel
                 Content = content,
                 At = Timestamp.FromDateTime(DateTime.Now.ToUniversalTime()),
             });
+        }
+
+        public void AddUser(string user)
+        {
+            if (!UserList.Contains(user))
+                UserList.Add(user);
         }
 
         #endregion Methods

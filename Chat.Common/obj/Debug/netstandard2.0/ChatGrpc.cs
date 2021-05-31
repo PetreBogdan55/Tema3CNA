@@ -44,6 +44,7 @@ namespace ChatApp.Common {
 
     static readonly grpc::Marshaller<global::ChatApp.Common.ChatLog> __Marshaller_Chat_Common_ChatLog = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::ChatApp.Common.ChatLog.Parser));
     static readonly grpc::Marshaller<global::Google.Protobuf.WellKnownTypes.Empty> __Marshaller_google_protobuf_Empty = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::Google.Protobuf.WellKnownTypes.Empty.Parser));
+    static readonly grpc::Marshaller<global::ChatApp.Common.User> __Marshaller_Chat_Common_User = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::ChatApp.Common.User.Parser));
 
     static readonly grpc::Method<global::ChatApp.Common.ChatLog, global::Google.Protobuf.WellKnownTypes.Empty> __Method_Write = new grpc::Method<global::ChatApp.Common.ChatLog, global::Google.Protobuf.WellKnownTypes.Empty>(
         grpc::MethodType.Unary,
@@ -58,6 +59,13 @@ namespace ChatApp.Common {
         "Subscribe",
         __Marshaller_google_protobuf_Empty,
         __Marshaller_Chat_Common_ChatLog);
+
+    static readonly grpc::Method<global::Google.Protobuf.WellKnownTypes.Empty, global::ChatApp.Common.User> __Method_GetUsers = new grpc::Method<global::Google.Protobuf.WellKnownTypes.Empty, global::ChatApp.Common.User>(
+        grpc::MethodType.ServerStreaming,
+        __ServiceName,
+        "GetUsers",
+        __Marshaller_google_protobuf_Empty,
+        __Marshaller_Chat_Common_User);
 
     /// <summary>Service descriptor</summary>
     public static global::Google.Protobuf.Reflection.ServiceDescriptor Descriptor
@@ -75,6 +83,11 @@ namespace ChatApp.Common {
       }
 
       public virtual global::System.Threading.Tasks.Task Subscribe(global::Google.Protobuf.WellKnownTypes.Empty request, grpc::IServerStreamWriter<global::ChatApp.Common.ChatLog> responseStream, grpc::ServerCallContext context)
+      {
+        throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
+      }
+
+      public virtual global::System.Threading.Tasks.Task GetUsers(global::Google.Protobuf.WellKnownTypes.Empty request, grpc::IServerStreamWriter<global::ChatApp.Common.User> responseStream, grpc::ServerCallContext context)
       {
         throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
       }
@@ -128,6 +141,14 @@ namespace ChatApp.Common {
       {
         return CallInvoker.AsyncServerStreamingCall(__Method_Subscribe, null, options, request);
       }
+      public virtual grpc::AsyncServerStreamingCall<global::ChatApp.Common.User> GetUsers(global::Google.Protobuf.WellKnownTypes.Empty request, grpc::Metadata headers = null, global::System.DateTime? deadline = null, global::System.Threading.CancellationToken cancellationToken = default(global::System.Threading.CancellationToken))
+      {
+        return GetUsers(request, new grpc::CallOptions(headers, deadline, cancellationToken));
+      }
+      public virtual grpc::AsyncServerStreamingCall<global::ChatApp.Common.User> GetUsers(global::Google.Protobuf.WellKnownTypes.Empty request, grpc::CallOptions options)
+      {
+        return CallInvoker.AsyncServerStreamingCall(__Method_GetUsers, null, options, request);
+      }
       /// <summary>Creates a new instance of client from given <c>ClientBaseConfiguration</c>.</summary>
       protected override ChatClient NewInstance(ClientBaseConfiguration configuration)
       {
@@ -141,7 +162,8 @@ namespace ChatApp.Common {
     {
       return grpc::ServerServiceDefinition.CreateBuilder()
           .AddMethod(__Method_Write, serviceImpl.Write)
-          .AddMethod(__Method_Subscribe, serviceImpl.Subscribe).Build();
+          .AddMethod(__Method_Subscribe, serviceImpl.Subscribe)
+          .AddMethod(__Method_GetUsers, serviceImpl.GetUsers).Build();
     }
 
     /// <summary>Register service method with a service binder with or without implementation. Useful when customizing the  service binding logic.
@@ -152,6 +174,7 @@ namespace ChatApp.Common {
     {
       serviceBinder.AddMethod(__Method_Write, serviceImpl == null ? null : new grpc::UnaryServerMethod<global::ChatApp.Common.ChatLog, global::Google.Protobuf.WellKnownTypes.Empty>(serviceImpl.Write));
       serviceBinder.AddMethod(__Method_Subscribe, serviceImpl == null ? null : new grpc::ServerStreamingServerMethod<global::Google.Protobuf.WellKnownTypes.Empty, global::ChatApp.Common.ChatLog>(serviceImpl.Subscribe));
+      serviceBinder.AddMethod(__Method_GetUsers, serviceImpl == null ? null : new grpc::ServerStreamingServerMethod<global::Google.Protobuf.WellKnownTypes.Empty, global::ChatApp.Common.User>(serviceImpl.GetUsers));
     }
 
   }

@@ -2099,11 +2099,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClientWpf\\ChatClientWpf.csproj",
+      "projectUniqueName": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClientWpf\\ChatClientWpf.csproj",
       "projectName": "ChatClientWpf",
-      "projectPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClientWpf\\ChatClientWpf.csproj",
+      "projectPath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClientWpf\\ChatClientWpf.csproj",
       "packagesPath": "C:\\Users\\alexn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClientWpf\\obj\\",
+      "outputPath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClientWpf\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2120,11 +2120,11 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj": {
-              "projectPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj"
+            "E:\\Visual Studio Workspace\\Tema3CNA\\Chat.Common\\Chat.Common.csproj": {
+              "projectPath": "E:\\Visual Studio Workspace\\Tema3CNA\\Chat.Common\\Chat.Common.csproj"
             },
-            "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClient\\ChatClient.csproj": {
-              "projectPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClient\\ChatClient.csproj"
+            "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\ChatClient.csproj": {
+              "projectPath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\ChatClient.csproj"
             }
           }
         }

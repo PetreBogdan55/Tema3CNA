@@ -38,8 +38,7 @@
 
         <TextBlock Text="{Binding Path=LocalUsername, UpdateSourceTrigger=PropertyChanged}" FontSize="{Binding Path=FontSize}" Grid.Row="0" Grid.Column="6"  Grid.ColumnSpan="2" TextAlignment="Center"/>
 
-        <Label Visibility="{Binding Path=MainChatVisibility}" Content="Search for user..." FontSize="{Binding Path=FontSize}" Grid.Row="2" Grid.ColumnSpan="2" Background="Cornsilk"/>
-        <Label Visibility="{Binding Path=MainChatVisibility}"  Content="User1" FontSize="{Binding Path=FontSize}" Grid.Row="3" Grid.ColumnSpan="2" Grid.RowSpan="9" Background="Gainsboro"/>
+        <ListView ItemsSource="{Binding UserList}" IsHitTestVisible="False" Visibility="{Binding Path=MainChatVisibility}" FontSize="{Binding Path=FontSize}" Grid.Row="2" Grid.ColumnSpan="2" Grid.RowSpan="10" Background="Gainsboro"/>
 
         <Grid Visibility="{Binding Path=MainChatVisibility}"  Grid.Row="2" Grid.Column="3" Grid.ColumnSpan="5" Grid.RowSpan="9">
             <ListView ItemsSource="{Binding ChatHistory}" Background="Bisque" IsHitTestVisible="False">

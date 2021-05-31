@@ -22,3 +22,15 @@ C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatSe
 C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatServer\bin\Debug\netstandard2.0\Chat.Common.dll
 C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatServer\bin\Debug\netstandard2.0\Chat.Common.pdb
 C:\Users\alexn\OneDrive\Desktop\GrpcWpfSample-master\GrpcWpfSample-master\ChatServer\obj\Debug\netstandard2.0\ChatServer.csproj.CopyComplete
+E:\Visual Studio Workspace\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\ChatServer.deps.json
+E:\Visual Studio Workspace\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\ChatServer.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\ChatServer.pdb
+E:\Visual Studio Workspace\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\Chat.Common.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\Chat.Common.pdb
+E:\Visual Studio Workspace\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.csprojAssemblyReference.cache
+E:\Visual Studio Workspace\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.AssemblyInfoInputs.cache
+E:\Visual Studio Workspace\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.AssemblyInfo.cs
+E:\Visual Studio Workspace\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.csproj.CoreCompileInputs.cache
+E:\Visual Studio Workspace\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.csproj.CopyComplete
+E:\Visual Studio Workspace\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.dll
+E:\Visual Studio Workspace\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.pdb

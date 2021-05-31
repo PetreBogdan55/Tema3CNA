@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClient\\ChatClient.csproj": {}
+    "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\ChatClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj": {
+    "E:\\Visual Studio Workspace\\Tema3CNA\\Chat.Common\\Chat.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj",
+        "projectUniqueName": "E:\\Visual Studio Workspace\\Tema3CNA\\Chat.Common\\Chat.Common.csproj",
         "projectName": "Chat.Common",
-        "projectPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj",
+        "projectPath": "E:\\Visual Studio Workspace\\Tema3CNA\\Chat.Common\\Chat.Common.csproj",
         "packagesPath": "C:\\Users\\alexn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\obj\\",
+        "outputPath": "E:\\Visual Studio Workspace\\Tema3CNA\\Chat.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClient\\ChatClient.csproj": {
+    "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\ChatClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClient\\ChatClient.csproj",
+        "projectUniqueName": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\ChatClient.csproj",
         "projectName": "ChatClient",
-        "projectPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClient\\ChatClient.csproj",
+        "projectPath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\ChatClient.csproj",
         "packagesPath": "C:\\Users\\alexn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClient\\obj\\",
+        "outputPath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,8 +103,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj": {
-                "projectPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj"
+              "E:\\Visual Studio Workspace\\Tema3CNA\\Chat.Common\\Chat.Common.csproj": {
+                "projectPath": "E:\\Visual Studio Workspace\\Tema3CNA\\Chat.Common\\Chat.Common.csproj"
               }
             }
           }
