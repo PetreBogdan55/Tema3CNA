@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tema3CNA\\ChatClient\\ChatClient.csproj": {}
+    "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClient\\ChatClient.csproj": {}
   },
   "projects": {
-    "E:\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj": {
+    "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj",
-        "projectName": "ChatClientCommon",
-        "projectPath": "E:\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj",
-        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
-        "outputPath": "E:\\Tema3CNA\\ChatClientCommon\\obj\\",
+        "projectUniqueName": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj",
+        "projectName": "Chat.Common",
+        "projectPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj",
+        "packagesPath": "C:\\Users\\alexn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,21 +42,21 @@
           "dependencies": {
             "Google.Protobuf": {
               "target": "Package",
-              "version": "[3.17.2, )"
+              "version": "[3.14.0, )"
             },
             "Google.Protobuf.Tools": {
               "target": "Package",
-              "version": "[3.17.2, )"
+              "version": "[3.14.0, )"
             },
             "Grpc.Core": {
               "target": "Package",
-              "version": "[2.38.0, )"
+              "version": "[2.35.0, )"
             },
             "Grpc.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.38.0, )"
+              "version": "[2.35.0, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -75,21 +75,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Tema3CNA\\ChatClient\\ChatClient.csproj": {
+    "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClient\\ChatClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tema3CNA\\ChatClient\\ChatClient.csproj",
+        "projectUniqueName": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClient\\ChatClient.csproj",
         "projectName": "ChatClient",
-        "projectPath": "E:\\Tema3CNA\\ChatClient\\ChatClient.csproj",
-        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
-        "outputPath": "E:\\Tema3CNA\\ChatClient\\obj\\",
+        "projectPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClient\\ChatClient.csproj",
+        "packagesPath": "C:\\Users\\alexn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\ChatClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,8 +103,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "E:\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj": {
-                "projectPath": "E:\\Tema3CNA\\ChatClientCommon\\ChatClientCommon.csproj"
+              "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj": {
+                "projectPath": "C:\\Users\\alexn\\OneDrive\\Desktop\\GrpcWpfSample-master\\GrpcWpfSample-master\\Chat.Common\\Chat.Common.csproj"
               }
             }
           }
@@ -121,7 +121,7 @@
           "dependencies": {
             "Grpc.Core": {
               "target": "Package",
-              "version": "[2.38.0, )"
+              "version": "[2.35.0, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -148,7 +148,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

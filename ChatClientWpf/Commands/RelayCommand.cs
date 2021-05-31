@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace ChatClientWpf.Commands
+namespace GrpcWpfSample.Client.Wpf.Commands
 {
     class RelayCommand<T> : ICommand
     {

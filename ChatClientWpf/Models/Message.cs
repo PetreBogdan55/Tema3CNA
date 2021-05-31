@@ -3,13 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ChatClientWpf.ApplicationData;
 
-namespace ChatClientWpf.Models
+namespace GrpcWpfSample.Client.Wpf.Models
 {
     class Message
     {
-        public Message(String user, String messageTxt, DateTime date)
+        public Message(String user, String messageTxt, String date)
         {
             User = user;
             MessageTxt = messageTxt;
@@ -33,9 +32,9 @@ namespace ChatClientWpf.Models
             set { messageTxt = value; }
         }
 
-        private DateTime date;
+        private String date;
 
-        public DateTime Date
+        public String Date
         {
             get { return date; }
             set { date = value; }
@@ -50,3 +49,4 @@ namespace ChatClientWpf.Models
         }
     }
 }
+
