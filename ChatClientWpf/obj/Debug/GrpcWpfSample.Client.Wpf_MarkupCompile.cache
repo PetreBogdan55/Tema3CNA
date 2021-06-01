@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\obj\Debug\
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatClientWpf\obj\Debug\
 GrpcWpfSample.Client.Wpf
 none
 false
 DEBUG;TRACE
-E:\Visual Studio Workspace\Tema3CNA\ChatClientWpf\App.xaml
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatClientWpf\App.xaml
 3782750090
-4-1311752402
-161013214238
-138-1732177832
+41391639256
+19804323127
+138-25333926
 View\ChatClientWindow.xaml;View\ChatView.xaml;View\LoginView.xaml;
 
 False

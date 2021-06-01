@@ -2094,20 +2094,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alexn\\.nuget\\packages\\": {}
+    "C:\\Users\\Mishu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClientWpf\\ChatClientWpf.csproj",
+      "projectUniqueName": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatClientWpf\\ChatClientWpf.csproj",
       "projectName": "ChatClientWpf",
-      "projectPath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClientWpf\\ChatClientWpf.csproj",
-      "packagesPath": "C:\\Users\\alexn\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClientWpf\\obj\\",
+      "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatClientWpf\\ChatClientWpf.csproj",
+      "packagesPath": "C:\\Users\\Mishu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatClientWpf\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\alexn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mishu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2120,11 +2120,11 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "E:\\Visual Studio Workspace\\Tema3CNA\\Chat.Common\\Chat.Common.csproj": {
-              "projectPath": "E:\\Visual Studio Workspace\\Tema3CNA\\Chat.Common\\Chat.Common.csproj"
+            "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\Chat.Common\\Chat.Common.csproj": {
+              "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\Chat.Common\\Chat.Common.csproj"
             },
-            "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\ChatClient.csproj": {
-              "projectPath": "E:\\Visual Studio Workspace\\Tema3CNA\\ChatClient\\ChatClient.csproj"
+            "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatClient\\ChatClient.csproj": {
+              "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatClient\\ChatClient.csproj"
             }
           }
         }

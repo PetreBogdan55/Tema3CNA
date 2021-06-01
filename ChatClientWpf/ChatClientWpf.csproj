@@ -65,7 +65,10 @@
     </ApplicationDefinition>
     <Compile Include="ApplicationData\ListToStringConverter.cs" />
     <Compile Include="ApplicationData\TextBlockHelper.cs" />
+    <Compile Include="FontStyle.cs" />
+    <Compile Include="FontWeight.cs" />
     <Compile Include="Models\Message.cs" />
+    <Compile Include="TextDecoration.cs" />
     <Compile Include="ViewModel\ChatViewModel.cs" />
     <Compile Include="ViewModel\LoginViewModel.cs" />
     <Compile Include="View\ChatView.xaml.cs">
