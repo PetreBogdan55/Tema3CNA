@@ -32,7 +32,7 @@ namespace GrpcWpfSample.Server.Rpc
                 Services =
                     {
                         Chat.BindService(this)
-                            .Intercept(new IpAddressAuthenticator())
+                            //.Intercept(new IpAddressAuthenticator())
                     },
                 Ports =
                     {

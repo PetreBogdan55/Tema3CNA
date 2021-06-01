@@ -1,18 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Documents;
 
 namespace GrpcWpfSample.Client.Wpf.Models
 {
     class Message
     {
-        public Message(String user, String messageTxt, String date)
+        public Message(String user, List<Run> runList, String date)
         {
             User = user;
-            MessageTxt = messageTxt;
             Date = date;
+            RunList = new ObservableCollection<Run>();
+            runList.ForEach(RunList.Add);
             FontSize = ApplicationData.ApplicationData.FontSize;
         }
 
@@ -24,12 +27,17 @@ namespace GrpcWpfSample.Client.Wpf.Models
             set { user = value; }
         }
 
-        private String messageTxt;
-
-        public String MessageTxt
+        private ObservableCollection<Run> runList;
+        public ObservableCollection<Run> RunList
         {
-            get { return messageTxt; }
-            set { messageTxt = value; }
+            get
+            {
+                return runList;
+            }
+            set
+            {
+                runList = value;
+            }
         }
 
         private String date;

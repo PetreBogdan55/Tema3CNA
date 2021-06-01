@@ -54,7 +54,15 @@
                         <WrapPanel Background="Bisque">
                             <TextBlock Text="{Binding User}" FontSize="{Binding Path=FontSize}" TextWrapping="Wrap" FontWeight="Bold"/>
                             <TextBlock Text=": " FontSize="{Binding Path=FontSize}" TextWrapping="Wrap" FontWeight="Bold"/>
-                            <TextBlock Text="{Binding MessageTxt}" FontSize="{Binding Path=FontSize}" TextWrapping="Wrap" HorizontalAlignment="Stretch"/>
+                            <TextBlock FontSize="{Binding Path=FontSize}" TextWrapping="Wrap" HorizontalAlignment="Stretch">
+                            <ListView ItemsSource="{Binding RunList}" Background="Transparent" BorderThickness="0">
+                                <ListView.ItemsPanel>
+                                     <ItemsPanelTemplate>
+                                        <StackPanel Orientation="Horizontal" Background="Bisque"/>
+                                     </ItemsPanelTemplate>
+                                </ListView.ItemsPanel>
+                            </ListView>
+                            </TextBlock>
                             <TextBlock Text=" : " FontSize="{Binding Path=FontSize}" TextWrapping="Wrap" FontWeight="Bold"/>
                             <TextBlock  Text="{Binding Date}" FontSize="{Binding Path=FontSize}" TextWrapping="Wrap" HorizontalAlignment="Stretch" TextAlignment="Right"/>
                         </WrapPanel>
