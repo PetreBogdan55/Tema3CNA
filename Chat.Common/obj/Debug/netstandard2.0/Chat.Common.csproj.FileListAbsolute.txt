@@ -34,3 +34,12 @@ C:\Users\Mishu\Documents\GitHub\Tema3CNA\Chat.Common\obj\Debug\netstandard2.0\Ch
 C:\Users\Mishu\Documents\GitHub\Tema3CNA\Chat.Common\obj\Debug\netstandard2.0\Chat.Common.csproj.CoreCompileInputs.cache
 C:\Users\Mishu\Documents\GitHub\Tema3CNA\Chat.Common\obj\Debug\netstandard2.0\Chat.Common.dll
 C:\Users\Mishu\Documents\GitHub\Tema3CNA\Chat.Common\obj\Debug\netstandard2.0\Chat.Common.pdb
+E:\Tema3CNA\Chat.Common\bin\Debug\netstandard2.0\Chat.Common.deps.json
+E:\Tema3CNA\Chat.Common\bin\Debug\netstandard2.0\Chat.Common.dll
+E:\Tema3CNA\Chat.Common\bin\Debug\netstandard2.0\Chat.Common.pdb
+E:\Tema3CNA\Chat.Common\obj\Debug\netstandard2.0\Chat.Common.csprojAssemblyReference.cache
+E:\Tema3CNA\Chat.Common\obj\Debug\netstandard2.0\Chat.Common.AssemblyInfoInputs.cache
+E:\Tema3CNA\Chat.Common\obj\Debug\netstandard2.0\Chat.Common.AssemblyInfo.cs
+E:\Tema3CNA\Chat.Common\obj\Debug\netstandard2.0\Chat.Common.csproj.CoreCompileInputs.cache
+E:\Tema3CNA\Chat.Common\obj\Debug\netstandard2.0\Chat.Common.dll
+E:\Tema3CNA\Chat.Common\obj\Debug\netstandard2.0\Chat.Common.pdb

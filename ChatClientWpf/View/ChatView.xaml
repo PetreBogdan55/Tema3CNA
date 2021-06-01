@@ -35,7 +35,7 @@
             <RowDefinition Height="7*"/>
             <RowDefinition Height="7*"/>
         </Grid.RowDefinitions>
-
+        <Label Content="User List"/>
         <TextBlock Text="{Binding Path=LocalUsername, UpdateSourceTrigger=PropertyChanged}" FontSize="{Binding Path=FontSize}" Grid.Row="0" Grid.Column="6"  Grid.ColumnSpan="2" TextAlignment="Center"/>
 
         <ListView ItemsSource="{Binding UserList}" IsHitTestVisible="False" Visibility="{Binding Path=MainChatVisibility}" FontSize="{Binding Path=FontSize}" Grid.Row="2" Grid.ColumnSpan="2" Grid.RowSpan="10" Background="Gainsboro"/>

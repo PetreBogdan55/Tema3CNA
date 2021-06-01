@@ -437,19 +437,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mishu\\.nuget\\packages\\": {}
+    "C:\\Users\\Bogdan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerMain\\ChatServerMain.csproj",
+      "projectUniqueName": "E:\\Tema3CNA\\ChatServerMain\\ChatServerMain.csproj",
       "projectName": "ChatServerMain",
-      "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerMain\\ChatServerMain.csproj",
-      "packagesPath": "C:\\Users\\Mishu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServerMain\\obj\\",
+      "projectPath": "E:\\Tema3CNA\\ChatServerMain\\ChatServerMain.csproj",
+      "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+      "outputPath": "E:\\Tema3CNA\\ChatServerMain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mishu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -463,11 +463,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\Chat.Common\\Chat.Common.csproj": {
-              "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\Chat.Common\\Chat.Common.csproj"
+            "E:\\Tema3CNA\\Chat.Common\\Chat.Common.csproj": {
+              "projectPath": "E:\\Tema3CNA\\Chat.Common\\Chat.Common.csproj"
             },
-            "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServer\\ChatServer.csproj": {
-              "projectPath": "C:\\Users\\Mishu\\Documents\\GitHub\\Tema3CNA\\ChatServer\\ChatServer.csproj"
+            "E:\\Tema3CNA\\ChatServer\\ChatServer.csproj": {
+              "projectPath": "E:\\Tema3CNA\\ChatServer\\ChatServer.csproj"
             }
           }
         }
@@ -506,7 +506,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

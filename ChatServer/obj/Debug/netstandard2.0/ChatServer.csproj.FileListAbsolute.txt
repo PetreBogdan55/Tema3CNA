@@ -46,3 +46,15 @@ C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\Cha
 C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.csproj.CopyComplete
 C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.dll
 C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.pdb
+E:\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\ChatServer.deps.json
+E:\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\ChatServer.dll
+E:\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\ChatServer.pdb
+E:\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\Chat.Common.dll
+E:\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\Chat.Common.pdb
+E:\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.csprojAssemblyReference.cache
+E:\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.AssemblyInfoInputs.cache
+E:\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.AssemblyInfo.cs
+E:\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.csproj.CoreCompileInputs.cache
+E:\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.csproj.CopyComplete
+E:\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.dll
+E:\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.pdb
