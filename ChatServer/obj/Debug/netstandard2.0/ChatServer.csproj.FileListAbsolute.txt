@@ -34,3 +34,15 @@ E:\Visual Studio Workspace\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServ
 E:\Visual Studio Workspace\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.csproj.CopyComplete
 E:\Visual Studio Workspace\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.dll
 E:\Visual Studio Workspace\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.pdb
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\ChatServer.deps.json
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\ChatServer.dll
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\ChatServer.pdb
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\Chat.Common.dll
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\bin\Debug\netstandard2.0\Chat.Common.pdb
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.csprojAssemblyReference.cache
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.AssemblyInfo.cs
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.csproj.CopyComplete
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.dll
+C:\Users\Mishu\Documents\GitHub\Tema3CNA\ChatServer\obj\Debug\netstandard2.0\ChatServer.pdb
